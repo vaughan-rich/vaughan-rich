@@ -1,1 +1,1 @@
-![Mesmerise](mesmerise4.gif)
+![Mesmerise](typing.gif)
