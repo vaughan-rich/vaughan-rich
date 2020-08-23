@@ -7,6 +7,8 @@
 <img src="https://media1.tenor.com/images/0b73b9822898ecf8c2f0a74469c6e337/tenor.gif?itemid=5822667"  height="auto" width="14.375%" alt="typing-gif" />
   </p>
 
+<br />
+
 <h3 align="center">Skills</h3>
 
 <p align="center">
