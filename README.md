@@ -1,5 +1,5 @@
-# Welcome to my Github 👋
-## A place for my personal side/mini-projects
+# Welcome 👋
+## This is place for my personal projects.
 <p align="center"> <img align="right" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="300" width="auto" alt="typing-gif" /> </p>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaughan-rich" alt="vaughan-rich" /> </p>-->
 
