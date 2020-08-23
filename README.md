@@ -1,11 +1,11 @@
 <h2 align="center">👋 Welcome 👋</h2>
 
 <p align="center">
-<img src="https://1.bp.blogspot.com/-PerenMfIjCM/XpcyoHWXSzI/AAAAAAAAB-g/DuPj_IoSWAMod3pVy4eEya4uxk-KN0UuACLcBGAsYHQ/s320/typing%2Bcat%2Bgif3.gif" height="auto" width="18.75%" alt="typing-gif" />  
-<img src="https://media1.tenor.com/images/969ce2bc098f0354f7124a076f1e6555/tenor.gif?itemid=9994708"  height="auto" width="25%" alt="typing-gif" />
-<img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" height="auto" width="23.75%" alt="typing-gif"/>
-<img src="https://media1.tenor.com/images/0b73b9822898ecf8c2f0a74469c6e337/tenor.gif?itemid=5822667"  height="auto" width="14.375%" alt="typing-gif" />
-  </p>
+<img src="https://1.bp.blogspot.com/-PerenMfIjCM/XpcyoHWXSzI/AAAAAAAAB-g/DuPj_IoSWAMod3pVy4eEya4uxk-KN0UuACLcBGAsYHQ/s320/typing%2Bcat%2Bgif3.gif" height="2%" alt="typing-gif" />  
+<img src="https://media1.tenor.com/images/969ce2bc098f0354f7124a076f1e6555/tenor.gif?itemid=9994708"  height="2%"alt="typing-gif" />
+<img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" height="2%" alt="typing-gif"/>
+<img src="https://media1.tenor.com/images/0b73b9822898ecf8c2f0a74469c6e337/tenor.gif?itemid=5822667"  height="2%" alt="typing-gif" />
+</p>
 
 <h3 align="center">Skills</h3>
 
