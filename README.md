@@ -11,13 +11,13 @@
 <h3 align="center">Skills</h3>
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="6%" height="6%"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="6%" height="6%"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="6%" height="6%"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="6%" height="6%"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="6%" height="6%"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="7.5%" height="7.5%"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="7.5%" height="7.5%"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="7.5%" height="7.5%"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="7.5%" height="7.5%"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="7.5%" height="7.5%"/>
 <p align="center">
-<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaughan-rich&layout=compact&hide=html" alt="vaughan-rich"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaughan-rich&layout=compact&hide=html" alt="vaughan-rich"/>
 </p>
 <h3 align="center">Contact Me</h3>
 <p align="center">✉️: richard.vaughan16@btinternet.com</p>
