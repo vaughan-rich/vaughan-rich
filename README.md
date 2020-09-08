@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋</h2>
+<h2 align="center">Richard Vaughan 🙋🏼‍♂️</h2>
 
 <p align="center">
   <!--<kbd width="10%"><img src="https://1.bp.blogspot.com/-PerenMfIjCM/XpcyoHWXSzI/AAAAAAAAB-g/DuPj_IoSWAMod3pVy4eEya4uxk-KN0UuACLcBGAsYHQ/s320/typing%2Bcat%2Bgif3.gif" width="95%"  alt="typing-gif"/></kbd>-->
