@@ -10,12 +10,12 @@
 <h3 align="center">Skills</h3>
 
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="5.5%" height="5.5%"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="5.5%" height="5.5%"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="5.5%" height="5.5%"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="5.5%" height="5.5%"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="5.5%" height="5.5%"/>
   <p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="5.5%" height="5.5%"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="5.5%" height="5.5%"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="5.5%" height="5.5%"/>
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaughan-rich&layout=compact&hide=html" alt="vaughan-rich"/>
   </p>
 </p>
