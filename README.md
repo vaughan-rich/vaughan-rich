@@ -1,26 +1,102 @@
-<h2 align="center">Richard Vaughan 🙋🏼‍♂️</h2>
+# 📖 Test Documentation
 
-<p align="center">
-  <!--<kbd width="10%"><img src="https://1.bp.blogspot.com/-PerenMfIjCM/XpcyoHWXSzI/AAAAAAAAB-g/DuPj_IoSWAMod3pVy4eEya4uxk-KN0UuACLcBGAsYHQ/s320/typing%2Bcat%2Bgif3.gif" width="95%"  alt="typing-gif"/></kbd>-->
-  <!--<img src="https://media1.tenor.com/images/969ce2bc098f0354f7124a076f1e6555/tenor.gif?itemid=9994708" width="27%" alt="typing-gif"/>
-  <img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="25%" alt="typing-gif"/>
-  <img src="https://media1.tenor.com/images/0b73b9822898ecf8c2f0a74469c6e337/tenor.gif?itemid=5822667" width="15.25%" alt="typing-gif"/>-->
-</p>
+## Contents
 
-<h3 align="center">Skills</h3>
+1. [Test Stories](#User Stories)
+  *[Front Page](###Front Page)
+  *[Location Page](###Location Page)
+  *[Sign-in Form](###Sign-in Form)
+  *[Flying Details Form](###Flying Details Form)
+  *[Payment Details Form](###Payment Details Form)
+  *[Confirmation Page](###Confirmation Page)
+  *[Create an Account](###Create an Account)
+2. [Selenium Scripts](#Selenium Scripts)
 
-<p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="5.5%" height="5.5%"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="5.5%" height="5.5%"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="5.5%" height="5.5%"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="5.5%" height="5.5%"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="5.5%" height="5.5%"/>
-  <p align="center">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaughan-rich&layout=compact&hide=html" alt="vaughan-rich"/>
-    </p>
-</p>
+# Test Stories
 
-<h3 align="center">Contact Me</h3>
+### Front Page
 
-<p align="center">✉️: richard.vaughan16@btinternet.com</p>
-<p align="center">🌐: richvaughan.co.uk</p>
+1. Test if we can access the correct page
+2. Check for the presence of the form, buttons and popular locations display 
+3. Being able to put input into the form: 
+   * From
+   * To
+   * Date
+4. Test the validation of the input form:
+   * From
+   * To
+   * Date
+5. Check if the submit of the form works
+   * Check if we display the correct page after pressing 'search'
+6. Check if you can click sign-in on the nav bar
+   * Check if you can see the sign-in form
+7. Check if you can click create an account on the nav var
+   * Check if you can see the create account form
+8. Check if you can click the popular locations and get the correct information
+
+### Location Page
+
+1. Check if the available flights are displayed
+2. Check if the map is available
+3. Check if clicking the flight displays a sign-in form
+4. Check if the map is interactive
+
+### Sign-in Form
+
+1. Check if the sign-in form is available
+2. Check if you can input data into:
+   * Email
+   * Password
+3. Check if sign in button works correctly
+4. Check if the create account works correctly
+5. Check for validation
+
+### Flying Details Form
+
+1. Check if the form displays correctly with all the correct fields
+2. Check if you can input data into:
+   * First Name
+   * Last Name
+   * DoB
+   * Passport Number
+3. Check if you can add anotehr person
+4. Check if you can click next
+5. Check if the correct page displays
+6. Check for validation
+
+### Payment Details Form
+
+1. Check if the form is displayed
+2. Check if you can add input into:
+   * Account Name
+   * Sort Code
+   * Account Number
+   * CVV
+3. Check if you can click next
+4. Check for validation
+
+### Confirmation Page
+
+1. Check if we display the confirmation page
+2. Check if the map is displayed
+3. Check if the finish button is displayed
+
+### Create an Account
+
+1. Check if the create an account form is displayed
+2. Check if you can input data in the following fields:
+   * First Name
+   * Last Name
+   * Email
+   * Password
+   * House Number
+   * Postcode
+3. Check if you can click the sign in option
+
+# Selenium Scripts
+
+Test scripts corresponding to the above stories can be found in the /testing directory.
+
+### Example
+
+* [Basic example for rome2rio.com](rome2RioExample.py)
