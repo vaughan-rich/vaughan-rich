@@ -3,6 +3,7 @@
 
 ```java
 public class RichVaughan {
+
   Map<String, String> aboutme = new HashMap<String, String>(){
 	  {
 	    put("name","Rich Vaughan");
