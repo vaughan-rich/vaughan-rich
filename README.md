@@ -11,6 +11,7 @@ public class RichVaughan {
 	    put("freetime","🎵, 🎸, 👨‍💻, and 🎿");
 	  }
   };
+  
 }
 ```
 
