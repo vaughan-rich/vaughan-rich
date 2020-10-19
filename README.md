@@ -1,4 +1,4 @@
-### Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="2.5%">
+### Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%">
 
 
 ```java
