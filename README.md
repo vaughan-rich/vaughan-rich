@@ -7,7 +7,7 @@ public class RichVaughan {
   Map<String, String> aboutme = new HashMap<String, String>(){
 	  {
 	    put("name","Rich Vaughan");
-	    put("occupation","Automated Software Tester");
+	    put("occupation","Associate Software Developer");
 	    put("freetime","🎵, 🎸, 👨‍💻, and 🎿");
 	  }
   };
