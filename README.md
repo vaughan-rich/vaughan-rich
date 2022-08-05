@@ -11,7 +11,7 @@ const me = {
 }
 ```
 
-### I'm listening to...
+### I've been listening to...
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=rvaughan&cover_image=true&theme=compact">
 
 ### Contact ✍️
