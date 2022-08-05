@@ -7,7 +7,7 @@ const me = {
   stack: ["AWS Serverless", "Typescript", "Javascript", "Node"],
   certifications: ["AWS Developer Associate", "Professional Scrum Master I", "Professional Scrum Product Owner I"],
   companies: ["bbc", "sky", "merkle"],
-  freetime: "🎵, 🎸, 👨‍💻, and 🎿"
+  freetime: "🎿, 🎵, 👨‍💻, 🎸, and 🐶"
 }
 ```
 
