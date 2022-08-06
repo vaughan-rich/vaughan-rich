@@ -12,7 +12,8 @@ const me = {
 ```
 
 ### I've been listening to...
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=rvaughan&cover_image=true&theme=compact">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rvaughan&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=rvaughan&redirect=true)
 
 ### Contact ✍️
 
