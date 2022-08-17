@@ -13,7 +13,7 @@ const me = {
 
 ### I'm listening to...
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rvaughan&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=rvaughan&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rvaughan&cover_image=true&theme=default)]()
 
 ### Contact ✍️
 
