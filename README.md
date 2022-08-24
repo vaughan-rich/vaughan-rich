@@ -1,9 +1,8 @@
 ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3.75%"> Hello!
 
 ```javascript
-const me = {
+const me: SoftwareEngineer = {
   name: "rich vaughan",
-  occupation: "software engineer",
   stack: ["AWS Serverless", "Typescript", "Javascript", "Node"],
   certifications: ["AWS Developer Associate", "Professional Scrum Master I", "Professional Scrum Product Owner I"],
   companies: ["bbc", "sky", "merkle"],
