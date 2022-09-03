@@ -3,11 +3,11 @@
 ```javascript
 const me: SoftwareEngineer = {
   name: "rich vaughan",
-  stack: ["AWS Serverless", "Typescript", "Javascript", "Node"],
+  stack: ["aws serverless", "typescript", "javascript", "node"],
   certifications: [
-    "AWS Developer Associate", 
-    "Professional Scrum Master I", 
-    "Professional Scrum Product Owner I"
+    "aws developer associate", 
+    "professional scrum master i", 
+    "professional scrum product owner i"
   ],
   companies: ["bbc", "sky", "merkle"],
   freetime: "🎿, 🎵, 👨‍💻, 🎸, and 🐶"
