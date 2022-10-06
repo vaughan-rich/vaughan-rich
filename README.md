@@ -6,6 +6,7 @@ const me: SoftwareEngineer = {
   stack: ["aws serverless", "typescript", "javascript", "node"],
   certifications: [
     "aws developer associate", 
+    "aws solutions architect associate",
     "professional scrum master i", 
     "professional scrum product owner i"
   ],
