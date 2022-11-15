@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3.65%"> Hello!
+### 👋 Hello!
 
 ```javascript
 const me: SoftwareEngineer = {
