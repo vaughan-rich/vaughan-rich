@@ -7,6 +7,7 @@ const me: SoftwareEngineer = {
   certifications: [
     "aws developer associate", 
     "aws solutions architect associate",
+    "aws sysops administrator associate",
     "professional scrum master i", 
     "professional scrum product owner i"
   ],
