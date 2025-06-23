@@ -1,8 +1,8 @@
 ### 👋 Hello!
 
-```javascript
+```typescript
 const me: SoftwareEngineer = {
-  name: "rich vaughan",
+  name: "Rich Vaughan",
   stack: ["aws", "typescript", "javascript", "node"],
   certifications: [
     "aws developer associate", 
@@ -11,7 +11,7 @@ const me: SoftwareEngineer = {
     "professional scrum master i", 
     "professional scrum product owner i"
   ],
-  companies: ["bbc", "sky", "merkle"],
+  companies: ["nandos", "bbc", "sky", "merkle"],
   freetime: "🎿, 🎵, 👨‍💻, 🎸, and 🐶"
 }
 ```
