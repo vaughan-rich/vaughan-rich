@@ -3,7 +3,7 @@
 ```typescript
 const me: SoftwareEngineer = {
   name: "Rich Vaughan",
-  stack: ["aws", "typescript", "javascript", "node"],
+  stack: ["aws", "typescript", "node"],
   certifications: [
     "aws developer associate", 
     "aws solutions architect associate",
