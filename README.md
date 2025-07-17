@@ -11,7 +11,7 @@ const me: SoftwareEngineer = {
     "professional scrum master i", 
     "professional scrum product owner i"
   ],
-  companies: ["nandos", "bbc", "sky", "merkle"],
+  companies: ["nandos", "bbc", "sky"],
   freetime: "🎿, 🎵, 👨‍💻, 🎸, and 🐶"
 }
 ```
